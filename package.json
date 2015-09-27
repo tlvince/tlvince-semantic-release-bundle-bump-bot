@@ -23,7 +23,7 @@
     "tlvince-semantic-release-push-dist": "1.0.5"
   },
   "devDependencies": {
-    "dynamic-bundle": "^1.0.0",
-    "semantic-release": "^4.3.5"
+    "dynamic-bundle": "1.0.0",
+    "semantic-release": "4.3.5"
   }
 }
