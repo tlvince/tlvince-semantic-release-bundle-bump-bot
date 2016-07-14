@@ -21,7 +21,7 @@
   "homepage": "https://github.com/tlvince/tlvince-semantic-release-bundle-bump-bot#readme",
   "dependencies": {
     "latest-versions": "^1.0.1",
-    "tlvince-semantic-release-push-dist": "1.0.25"
+    "tlvince-semantic-release-push-dist": "1.0.28"
   },
   "devDependencies": {
     "dynamic-bundle": "1.0.0",
